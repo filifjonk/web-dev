@@ -1,0 +1,12 @@
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\bin\Debug\net5.0\Shop.Entities.deps.json
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\bin\Debug\net5.0\Shop.Entities.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\bin\Debug\net5.0\Shop.Entities.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.csproj.AssemblyReference.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.AssemblyInfoInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.AssemblyInfo.cs
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\refint\Shop.Entities.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\Shop.Entities.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.Entities\obj\Debug\net5.0\ref\Shop.Entities.dll

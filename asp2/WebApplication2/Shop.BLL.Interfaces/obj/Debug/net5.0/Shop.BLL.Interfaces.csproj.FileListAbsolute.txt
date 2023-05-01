@@ -1,0 +1,15 @@
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\bin\Debug\net5.0\Shop.BLL.Interfaces.deps.json
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\bin\Debug\net5.0\Shop.BLL.Interfaces.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\bin\Debug\net5.0\Shop.BLL.Interfaces.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\bin\Debug\net5.0\Shop.Entities.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\bin\Debug\net5.0\Shop.Entities.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.AssemblyInfo.cs
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.csproj.CopyComplete
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\refint\Shop.BLL.Interfaces.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\Shop.BLL.Interfaces.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.BLL.Interfaces\obj\Debug\net5.0\ref\Shop.BLL.Interfaces.dll

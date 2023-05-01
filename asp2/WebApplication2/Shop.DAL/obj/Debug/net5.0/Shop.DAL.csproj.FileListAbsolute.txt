@@ -1,0 +1,17 @@
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.AssemblyInfo.cs
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.DAL.deps.json
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.DAL.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.DAL.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.DAL.Interfaces.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.Entities.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.DAL.Interfaces.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\bin\Debug\net5.0\Shop.Entities.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.csproj.CopyComplete
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\refint\Shop.DAL.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\Shop.DAL.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\Shop.DAL\obj\Debug\net5.0\ref\Shop.DAL.dll
