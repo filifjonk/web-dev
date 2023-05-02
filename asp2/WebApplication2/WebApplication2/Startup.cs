@@ -15,6 +15,10 @@ using Shop.DAL;
 using Shop.DAL.Interfaces;
 using Shop.BLL.Interfaces;
 using Shop.BLL;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebApplication2
 {
@@ -45,10 +49,61 @@ namespace WebApplication2
                 .AddNewtonsoftJson(options => options.SerializerSettings.ContractResolver
                 = new DefaultContractResolver());
 
+            //services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            //    .AddJwtBearer(options =>
+            //    {
+            //        options.TokenValidationParameters = new TokenValidationParameters
+            //        {
+            //            ValidateIssuer = true,
+            //            ValidateAudience = true,
+            //            ValidateLifetime = true,
+            //            ValidateIssuerSigningKey = true,
+            //            ValidIssuer = Configuration["Jwt:Issuer"],
+            //            ValidAudience = Configuration["Jwt: Audience"],
+            //            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+            //        };
+            //    });
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+  .AddJwtBearer(options =>
+  {
+      options.RequireHttpsMetadata = false;
+      options.SaveToken = true;
+      options.TokenValidationParameters = new TokenValidationParameters
+      {
+          ValidateIssuerSigningKey = true,
+          IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("aksldjJAHSDGJHV172365KJGDASDASLDJHAKJKAJSDaskdj")),
+          ValidateIssuer = false,
+          ValidateAudience = false
+      };
+  });
+
+            services.AddAuthorization(options =>
+            {
+                options.DefaultPolicy = new AuthorizationPolicyBuilder()
+                  .RequireAuthenticatedUser()
+                  .Build();
+            });
+            services.AddMvc();
+           
+
+
             services.AddControllers();
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApplication2", Version = "v1" });
+                c.AddSecurityDefinition("Bearer",
+                  new OpenApiSecurityScheme
+                  {
+                      Description = "JWT Authorization header using the Bearer scheme.",
+                      Type = SecuritySchemeType.Http,
+                      Scheme = "bearer",
+                      BearerFormat = "JWT"
+                  });
+                c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+      { new OpenApiSecurityScheme { Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" } }, new List<string>() }
+    });
             });
         }
 
@@ -67,6 +122,8 @@ namespace WebApplication2
             }
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

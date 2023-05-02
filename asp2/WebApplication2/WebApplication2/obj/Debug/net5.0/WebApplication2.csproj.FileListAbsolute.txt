@@ -53,3 +53,10 @@ C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\b
 C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Shop.BLL.Interfaces.pdb
 C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Shop.DAL.pdb
 C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Shop.DAL.Interfaces.pdb
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chipu\OneDrive\Documents\web-dev\asp2\WebApplication2\WebApplication2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

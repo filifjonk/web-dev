@@ -12,6 +12,7 @@ import { isStringLiteral } from 'typescript';
 //import { stringify } from 'querystring';
 //import { title } from 'process';
 import { RootState } from './redux/store';
+import Forma from './Forma';
 
 const Home = () => {
   const dispatch = useDispatch();
@@ -64,6 +65,7 @@ const Home = () => {
   return (
     <>
       <Categories valueCat={categoryId} onClickCat={onClickCategory} />
+      <Forma />
       <Sort />
       <div className="wrap">
         <div className="items">
