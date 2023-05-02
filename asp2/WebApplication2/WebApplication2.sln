@@ -15,17 +15,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shop.DALInterfaces", "Shop.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shop.Entities", "Shop.Entities", "{986784F6-76F1-4B04-883B-9CA9AB368AD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.BLL", "Shop.BLL\Shop.BLL.csproj", "{2CB06BE5-4F13-4E7B-ACBA-E3A2679C193F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.BLL", "Shop.BLL\Shop.BLL.csproj", "{2CB06BE5-4F13-4E7B-ACBA-E3A2679C193F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shop.DAL", "Shop.DAL", "{0518F331-F8F3-4218-94BB-5E3ABDB4ECCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.DAL", "Shop.DAL\Shop.DAL.csproj", "{8409B733-D147-48D8-A7C3-0E9B98C1769C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.DAL", "Shop.DAL\Shop.DAL.csproj", "{8409B733-D147-48D8-A7C3-0E9B98C1769C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Entities", "Shop.Entities\Shop.Entities.csproj", "{5BA7170C-2118-4F0E-89BD-D85833803F5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Entities", "Shop.Entities\Shop.Entities.csproj", "{5BA7170C-2118-4F0E-89BD-D85833803F5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.BLL.Interfaces", "Shop.BLL.Interfaces\Shop.BLL.Interfaces.csproj", "{BF2D0EA5-B938-4D61-9C8F-958191BEC0B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.BLL.Interfaces", "Shop.BLL.Interfaces\Shop.BLL.Interfaces.csproj", "{BF2D0EA5-B938-4D61-9C8F-958191BEC0B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.DAL.Interfaces", "Shop.DAL.Interfaces\Shop.DAL.Interfaces.csproj", "{B3E466A7-90EA-470E-B78F-BF3D52A13095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.DAL.Interfaces", "Shop.DAL.Interfaces\Shop.DAL.Interfaces.csproj", "{B3E466A7-90EA-470E-B78F-BF3D52A13095}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{74F38FC8-0444-469A-A4C5-F79C91688286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B3E466A7-90EA-470E-B78F-BF3D52A13095}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3E466A7-90EA-470E-B78F-BF3D52A13095}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3E466A7-90EA-470E-B78F-BF3D52A13095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F38FC8-0444-469A-A4C5-F79C91688286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F38FC8-0444-469A-A4C5-F79C91688286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F38FC8-0444-469A-A4C5-F79C91688286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F38FC8-0444-469A-A4C5-F79C91688286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

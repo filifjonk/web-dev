@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:    
+  notes:
+
+services:
+  msdb:
+    container_name: kseny
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+     - 8002:1433
+    environment:
+     - ACCEPT_EULA=Y
+     - SA_PASSWORD=kseny1#!
+    networks:
+      - shop
+    volumes:
+      - dbdata:/Shop.PL/data/
+  notes.web.pl:
+    image: ${DOCKER_REGISTRY-}shopwebpl
+    build:
+      context: .
+      dockerfile: Notes.Web.PL/Dockerfile
+    depends_on:
+      - msdb
+    environment:
+      - DB_HOST=msdb
+      - DB_NAME=shopdb
+      - DB_SA_PASSWORD=kseny1#!
+    networks:
+      - shop
+
